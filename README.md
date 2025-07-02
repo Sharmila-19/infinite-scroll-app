@@ -23,8 +23,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
--   Node.js (LTS version recommended)
--   npm or yarn
+-   Node.js
+-   npm
 
 ### Installation
 
